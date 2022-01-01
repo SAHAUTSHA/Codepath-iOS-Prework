@@ -19,6 +19,8 @@ Video Walkthrough
 Here's a walkthrough of implemented user stories:
 https://recordit.co/V0QQkNisTV
 
+Alternative Link: https://imgur.com/a/HNnzgtN
+
 GIF created with RecordIt.
 
 
